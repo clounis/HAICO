@@ -1,11 +1,11 @@
-# Undercooked
+# HAICO
 Retrieved from an already developped game similar at overcooked by daltonbr
 
 
 ![image](https://github.com/clounis/HAICO/assets/34571249/dcd47f8b-fbdf-4635-8d48-01198afafafa)
 
 
-_**Disclaimer:** Undercooked is a fan-made game, inspired by one of my favorite franchises: Overcooked, an amazing couch-coop game.
+_**Disclaimer:** This is a fan-made game, inspired by one of my favorite franchises: Overcooked, an amazing couch-coop game.
 All assets were created from scratch. This project doesn’t have any commercial goals or any legal affiliation with the original game or company.
 This project is meant only for scientific research on human-artificial agent collaboration
 
